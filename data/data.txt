@@ -1,0 +1,4 @@
+Images for this example were pulled from K. Song and Y. Yan (link and citation below).
+
+http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
+K. Song and Y. Yan, “A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects,” Applied Surface Science, vol. 285, pp. 858-864, Nov. 2013.(paper)
